@@ -139,7 +139,7 @@ Class Zip_File_Management_Plugin
     	PLUGIN_CREDITS 			= "Coded By @RCDMK <rcdmk@rcdmk.com> ReDeveloped By @badursun Anthony Burak DURSUN - The MIT License (MIT)"
     	PLUGIN_FOLDER_NAME 		= "Zip-File-Management-Plugin"
     	PLUGIN_DB_NAME 			= ""
-    	PLUGIN_REMOVABLE 		= True
+    	PLUGIN_REMOVABLE 		= False
     	PLUGIN_AUTOLOAD 		= True
     	PLUGIN_ROOT 			= PLUGIN_DIST_FOLDER_PATH(This)
     	PLUGIN_FILES_ROOT 		= PLUGIN_VIRTUAL_FOLDER(This)
